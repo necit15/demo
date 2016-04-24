@@ -257,7 +257,7 @@ input.gn-search:focus {
 }
 
 .gn-icon-archive::before {
-		content: "\e00d"
+		content: "\e006"
 }
 
 .gn-icon-article::before {

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 	<head>
+                <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 		<title>EcoDots</title>
@@ -45,7 +46,11 @@
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_mercury.php">Энергосберегающие лампы</a></li>
 									    <li><a class="gn-icon gn-icon-download" href="rec_paper.php">Бумага, картон</a></li>
                                                                             <li><a class="gn-icon gn-icon-download" href="rec_other.php">Другие отходы</a></li>
-                                                                        <a class="gn-icon gn-icon-help" href="help.php">О нас</a>        
+                                                                        <a class="gn-icon gn-icon-help" href="http://telegram.me/eco16_bot"><font face="Ubuntu" size=4,5 >
+        Наш Telegram-бот
+         </font></a>
+                                                                            <a class="gn-icon gn-icon-article" href="FAQ.php">Обратная связь</a> 
+                                                                            <a class="gn-icon gn-icon-help" href="help.php">О нас</a>       
 									</ul>
 								</li>
 						</div><!-- /gn-scroller -->
